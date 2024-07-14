@@ -9,7 +9,7 @@
 
 ---
 
-### :woman_technologist: About Me : I am a BSc Computer Science student and Software Engineer in the making. Student at the University of Groningen and coding college 42 Wolfsburg. Check out my repositories to see some of the projects I've been working on!
+### :woman_technologist: I graduated with a BSc in Computing Science from the University of Groningen last year, and am currently working on Fluenci App — an AI Language Partner. Check out my repositories to see some of the cool projects I've built!
 
 ---
 
